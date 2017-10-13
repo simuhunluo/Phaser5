@@ -1,3 +1,3 @@
 function test() {
-    alert("你好");
+    alert("你好a啊笔记本");
 }
